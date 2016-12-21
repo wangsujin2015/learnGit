@@ -12,3 +12,6 @@ Git is free software distributed under the GPL.
 我🈶dev上做了修改来测试 分支管理策略
 
 
+.gitignore 来配置忽略的文件
+
+
