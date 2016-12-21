@@ -8,3 +8,7 @@ Git is free software distributed under the GPL.
 
 我在feature1分支上做的修改
 
+
+我🈶dev上做了修改来测试 分支管理策略
+
+
